@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--this is the main sentence of xml-->
+
+-<mobile>
+
+<!-- this is the root and you can't use it in 2 time.. -->
+
+
+
+-<name m="7">
+
+
+-<a>
+AH
+
+-<b>
+BH
+<c>CH</c>
+
+</b>
+
+</a>
+
+</name>
+
+
+-<company>
+
+<![CDATA[<h1>logo</h1>]]>
+
+</company>
+
+<model>2017</model>
+
+<color>red</color>
+
+<!--finish-->
+
+
+</car>
